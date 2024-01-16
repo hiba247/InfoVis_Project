@@ -1,0 +1,107 @@
+sexe,age,activite,fumeur,alcool,fruits, légumes,activitéphysiques,trajets,maladiefamille,nommaladie,sport
+homme,30-40,Employé(e) de l’Etat,Non,Non,0,3,5,5,oui,Asthme,Non
+homme,30-40,Employé(e) de l’Etat,oui,Non,3,5,3,3,Non,,oui
+femme,plus de 40,chomeur(se),Non,Non,5,5,5,4,oui,diabete,Non
+homme,plus de 40,Employé(e) dans le privé,oui,Non,3,5,1,3,Non,,Non
+homme,20-30,étudiant,Non,Non,2,4,2,3,Non,,Non
+femme,20-30,Employé(e) de l’Etat,Non,Non,5,5,0,2,oui,Tension(HTA),Non
+homme,30-40,Employé(e) de l’Etat,Non,Non,2,3,2,2,Non,,Non
+homme,30-40,Employé(e) de l’Etat,Non,oui,3,5,2,5,oui,Tension(HTA),oui
+homme,30-40,Employé(e) de l’Etat,Non,oui,3,5,2,5,oui,Tension(HTA),oui
+homme,20-30,Employé(e) de l’Etat,Non,Non,5,5,2,1,oui,,Non
+homme,30-40,Employé(e) de l’Etat,Non,Non,1,2,1,5,Non,,oui
+homme,30-40,Employé(e) dans le privé,Non,Non,3,3,0,0,Non,,Non
+homme,30-40,Employé(e) de l’Etat,Non,Non,5,5,1,5,Non,,Non
+homme,30-40,Employé(e) de l’Etat,Non,Non,2,3,2,5,oui,,Non
+homme,30-40,Employé(e) de l’Etat,Non,oui,3,3,2,3,oui,Tension(HTA),Non
+homme,30-40,Employé(e) dans le privé,Non,Non,1,5,5,5,oui,Tension(HTA),oui
+homme,plus de 40,Employé(e) de l’Etat,Non,Non,5,5,2,1,oui,,oui 
+femme,20-30,étudiant,Non,Non,4,5,0,2,oui,Tension(HTA),Non
+femme,30-40,Employé(e) de l’Etat,Non,Non,5,5,1,2,oui,diabete,Non
+femme,plus de 40,chomeur(se),Non,Non,5,3,3,4,oui,,Non
+femme,20-30,étudiant,Non,Non,3,4,4,2,oui,Asthme,oui
+homme,30-40,Employé(e) dans le privé,Non,Non,5,3,0,0,Non,,Non
+homme,20-30,étudiant,Non,Non,3,5,3,0,oui,,Non
+homme,20-30,Employé(e) de l’Etat,Non,Non,5,3,5,5,Non,,oui
+femme,plus de 40,Employé(e) de l’Etat,Non,Non,5,5,0,1,Non,,Non
+femme,20-30,étudiant,Non,Non,5,5,0,2,Non,,Non
+femme,20-30,étudiant,Non,Non,4,3,2,3,oui,Tension(HTA),oui
+femme,20-30,Employé(e) dans le privé,Non,Non,3,1,1,0,oui,,Non
+homme,30-40,Employé(e) dans le privé,Non,Non,3,5,5,0,oui,,Non
+homme,plus de 40,Employé(e) de l’Etat,Non,Non,3,2,4,5,oui,diabete,Non
+homme,30-40,Employé(e) dans le privé,oui,Non,5,5,0,1,oui,diabete,Non
+homme,30-40,Employé(e) dans le privé,oui,oui,2,2,3,5,oui,,Non
+femme,20-30,Employé(e) de l’Etat,Non,Non,3,2,0,4,Non,,Non
+femme,20-30,Employé(e) de l’Etat,Non,Non,5,5,2,5,oui,diabete,Non
+homme,20-30,chomeur(se),Non,Non,5,2,2,5,oui,diabete,Non
+femme,20-30,chomeur(se),Non,Non,3,5,3,1,oui,diabete,Non
+femme,20-30,chomeur(se),Non,Non,5,5,0,3,oui,diabete,Non
+femme,20-30,Employé(e) de l’Etat,Non,Non,3,4,1,3,Non,,Non
+femme,18-20,étudiant,Non,Non,5,5,4,3,oui,diabete,oui
+homme,20-30,Employé(e) dans le privé,Non,Non,4,5,5,5,oui,diabete,Non
+femme,20-30,Employé(e) de l’Etat,Non,Non,2,5,0,5,oui,Tension(HTA),Non
+femme,20-30,Employé(e) dans le privé,Non,Non,4,5,2,1,oui,,oui 
+femme,20-30,Employé(e) de l’Etat,Non,Non,4,3,1,2,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,4,5,0,5,oui,Tension(HTA),Non
+homme,18-20,étudiant,Non,Non,1,4,3,3,Non,diabete,Non
+femme,20-30,étudiant,Non,Non,3,3,1,1,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,4,2,0,2,Non,Asthme,oui
+homme,18-20,étudiant,Non,Non,4,5,0,1,oui,Tension(HTA),Non
+femme,20-30,étudiant,Non,Non,3,5,1,3,Non,,Non
+homme,18-20,étudiant,Non,Non,4,5,1,2,oui,diabete,Non
+homme,18-20,étudiant,Non,Non,5,5,0,0,oui,Tension(HTA),Non
+homme,20-30,étudiant,Non,Non,3,4,2,2,Non,,Non
+femme,20-30,étudiant,Non,Non,3,5,1,3,oui,Tension(HTA),Non
+femme,18-20,étudiant,Non,Non,2,3,0,5,oui,Tension(HTA),Non
+homme,20-30,étudiant,Non,Non,3,4,0,0,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,2,3,0,1,oui,diabete,Non
+homme,20-30,étudiant,Non,Non,3,5,0,1,oui,Asthme,Non
+homme,18-20,étudiant,Non,Non,3,5,2,5,Non,,Non
+femme,18-20,étudiant,Non,Non,2,3,0,1,oui,,Non
+femme,20-30,étudiant,Non,Non,4,4,3,5,Non,,Non
+homme,18-20,étudiant,Non,Non,3,4,1,2,oui,Tension(HTA),Non
+homme,20-30,étudiant,Non,Non,3,4,3,3,oui,diabete,Non
+homme,20-30,étudiant,Non,Non,5,2,5,5,oui,diabete,Non
+homme,18-20,étudiant,Non,Non,3,3,2,4,oui,Tension(HTA),Non
+homme,20-30,étudiant,Non,Non,2,4,2,5,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,5,4,3,2,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,4,5,1,1,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,2,3,0,0,oui,diabete,Non
+homme,20-30,Employé(e) dans le privé,Non,oui,3,5,2,5,Non,,Non
+homme,20-30,étudiant,Non,Non,3,4,1,5,oui,Tension(HTA),Non
+homme,18-20,étudiant,Non,Non,4,5,4,4,Non,,Non
+femme,20-30,étudiant,Non,Non,3,3,0,0,oui,Tension(HTA),Non
+femme,20-30,étudiant,Non,Non,5,5,1,5,oui,Tension(HTA),Non
+femme,18-20,étudiant,Non,Non,5,5,1,2,Non,,Non
+homme,18-20,étudiant,Non,Non,5,4,1,2,oui,,Non
+homme,18-20,étudiant,Non,Non,5,5,0,0,Non,,Non
+femme,20-30,étudiant,Non,Non,3,5,0,5,oui,Tension(HTA),Non
+femme,20-30,étudiant,Non,Non,4,5,0,3,Non,,Non
+femme,20-30,étudiant,Non,Non,0,5,1,0,oui,Asthme,Non
+femme,18-20,étudiant,Non,Non,2,5,1,5,oui,Tension(HTA),oui
+femme,18-20,étudiant,Non,Non,5,2,5,1,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,3,5,0,5,oui,diabete,Non
+femme,18-20,étudiant,Non,Non,4,2,1,2,oui,Asthme,Non
+femme,30-40,Employé(e) de l’Etat,Non,Non,4,4,0,0,oui,diabete,Non
+homme,18-20,étudiant,Non,Non,5,2,0,5,oui,diabete,Non
+homme,18-20,étudiant,Non,Non,5,5,5,5,oui,diabete,oui
+femme,18-20,étudiant,Non,Non,3,5,0,0,Non,,Non
+homme,18-20,étudiant,Non,Non,5,4,3,1,Non,,oui
+homme,20-30,étudiant,Non,Non,2,5,2,4,Non,,Non
+homme,18-20,étudiant,Non,Non,5,4,0,5,oui,,Non
+femme,18-20,étudiant,Non,Non,2,5,0,1,oui,diabete,Non
+homme,18-20,étudiant,oui,Non,5,3,2,5,oui,Tension(HTA),Non
+homme,18-20,étudiant,Non,oui,1,4,0,5,oui,Asthme,Non
+homme,18-20,étudiant,Non,Non,1,5,2,5,oui,Tension(HTA),Non
+homme,18-20,étudiant,Non,Non,5,2,0,5,oui,diabete,Non
+homme,20-30,étudiant,Non,Non,3,5,1,5,Non,,Non
+homme,18-20,étudiant,Non,Non,5,5,5,2,Non,,oui
+homme,18-20,étudiant,Non,Non,3,4,0,2,Non,,Non
+femme,18-20,étudiant,Non,Non,3,2,0,0,oui,diabete,Non
+femme,20-30,étudiant,Non,Non,2,4,0,1,oui,Tension(HTA),Non
+homme,20-30,étudiant,Non,Non,2,4,1,5,oui,Tension(HTA),Non
+homme,18-20,étudiant,oui,oui,2,3,4,4,Non,,oui
+homme,20-30,étudiant,Non,Non,4,4,3,1,Non,,Non
+femme,18-20,étudiant,Non,Non,3,5,2,0,oui,diabete,Non
+homme,20-30,étudiant,Non,Non,2,5,4,4,oui,Tension(HTA),oui
+homme,18-20,étudiant,Non,Non,3,2,0,2,oui,Tension(HTA),Non

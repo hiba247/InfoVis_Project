@@ -1,0 +1,66 @@
+
+.tooltip {
+
+  color: #f6f6f1;
+
+    position: absolute;
+    text-align: center;
+    padding: 8px;
+    font: 12px sans-serif;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    pointer-events: none;
+  }
+  
+  .tooltip2 {
+    position: absolute;
+    text-align: center;
+    padding: 8px;
+    font: 12px sans-serif;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    pointer-events: none;
+  }
+
+/* CSS */
+button {
+  background-color: #b073bb;
+  border-radius: 5px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+button:hover,
+button:focus {
+  background-color: #e5a9f0;
+}
+#head {
+  background-color: #b073bb;
+  padding: 10px; /* Add padding to the header */
+  text-align: left; /* Center-align text within the header */
+  height: 40px; /* Adjust the height to your preference */
+  margin: 0; /* Remove any default margin */
+
+}
