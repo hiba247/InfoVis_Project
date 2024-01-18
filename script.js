@@ -7,9 +7,9 @@ async function fetchData(filePath) {
 
 async function run() {
   // Chargement des données
-  const dataAsthme = await fetchData("Asthme_file.csv");
-  const dataDiabete = await fetchData("diabete_file.csv");
-  const dataTension = await fetchData("Tension(HTA)_file.csv");
+  const dataAsthme = await fetchData("data/Asthme_file.csv");
+  const dataDiabete = await fetchData("data/diabete_file.csv");
+  const dataTension = await fetchData("data/Tension(HTA)_file.csv");
 
   // Set up dimensions and margins
   const margin = { top: 40, right: 60, bottom: 70, left: 40 };
@@ -242,9 +242,9 @@ svg1.append("text")
 
  /******* */
 // Chargement des données
-const dataAsthme2 = await fetchData("Asthme_file2.csv");
-const dataDiabete2 = await fetchData("diabete_file2.csv");
-const dataTension2 = await fetchData("Tension(HTA)_file2.csv");
+const dataAsthme2 = await fetchData("data/Asthme_file2.csv");
+const dataDiabete2 = await fetchData("data/diabete_file2.csv");
+const dataTension2 = await fetchData("data/Tension(HTA)_file2.csv");
 
 
 const svg2 = d3
